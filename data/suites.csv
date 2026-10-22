@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2372","valid login redirects to inventory","firefox","2026-10-22","passed","2026-10-22","Login tests","login.spec.js","",""
+"","699","invalid login shows error message","firefox","2026-10-22","passed","2026-10-22","Login tests","login.spec.js","",""
+"","1108","invalid login shows error message","webkit","2026-10-22","passed","2026-10-22","Login tests","login.spec.js","",""
+"","2116","valid login redirects to inventory","webkit","2026-10-22","passed","2026-10-22","Login tests","login.spec.js","",""
+"","786","valid login redirects to inventory","chromium","2026-10-22","passed","2026-10-22","Login tests","login.spec.js","",""
+"","551","invalid login shows error message","chromium","2026-10-22","passed","2026-10-22","Login tests","login.spec.js","",""
